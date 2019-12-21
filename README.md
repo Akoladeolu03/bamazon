@@ -47,3 +47,6 @@ This app is used by Managers to show
 
 # BamazonSupervisor.js
 This app is a summary for perfomance of the individual unit, department or an item. It shows sales in relationship to departmental overhead cost to arrive at profit and it allow you to create a new Department.
+![bmzs1](Assets/bmzs1.png)
+![bmzs2](Assets/bmzs2.png)
+![bmzs3](Assets/bmzs3.png)
