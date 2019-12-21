@@ -38,3 +38,11 @@ This app is used by Managers to show
   * The same thing applicable if  manager selects `Add to Inventory`, the app will display a prompt that will let the manager "add more" of any item currently in the store.
 
   * And Lastly if a Manager selects `Add New Product`, it allows the manager to add a completely new product to the store.
+
+![bmzc1](Assets/bmzc1.png)
+![bmzc2](Assets/bmzc2.png)
+![bmzc3](Assets/bmzc3.png)
+![bmzc4](Assets/bmzc4.png)
+
+# BamazonSupervisor.js
+This app is a summary for perfomance of the individual unit, department or an item. It compares sales with departmental overhead cost to arrive at profit.
