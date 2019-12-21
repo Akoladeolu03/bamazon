@@ -32,17 +32,18 @@ This app is used by Managers to show
 * Add New Product
 
 * It functions in such a way that, If a manager selects `View Products for Sale`, the app will list every available item: the item IDs, names, prices, and quantities.
+ ![bmzm1](Assets/bmzm1.png)
 
   * Also if a manager selects `View Low Inventory`, then it should list all items with an inventory count lower than five.
+![bmzm2](Assets/bmzm2.png)
 
   * The same thing applicable if  manager selects `Add to Inventory`, the app will display a prompt that will let the manager "add more" of any item currently in the store.
+  ![bmzm3](Assets/bmzm3.png)
+  ![bmzm4](Assets/bmzm4.png)
 
   * And Lastly if a Manager selects `Add New Product`, it allows the manager to add a completely new product to the store.
 
-![bmzc1](Assets/bmzc1.png)
-![bmzc2](Assets/bmzc2.png)
-![bmzc3](Assets/bmzc3.png)
-![bmzc4](Assets/bmzc4.png)
+![bmzm5](Assets/bmzm5.png)
 
 # BamazonSupervisor.js
-This app is a summary for perfomance of the individual unit, department or an item. It compares sales with departmental overhead cost to arrive at profit.
+This app is a summary for perfomance of the individual unit, department or an item. It shows sales in relationship to departmental overhead cost to arrive at profit and it allow you to create a new Department.
