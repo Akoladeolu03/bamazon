@@ -6,13 +6,13 @@ Bamazon is an App that offers shoppers the opportunity to shop for different kin
 4. Price &
 5. Stock Quantity.
 
-Bamazon is made to function like Amazon Shopping App and  It has 3 distinct category namely;
+Bamazon is made to function like Amazon Shopping App and  It has 3 distinct categories namely;
 1. BamazonCustomer.js
 2. BamazonManager.js
 3. BamazonSupervisor.js
 
 # BamazonCustomer.js
- This app creates an interface for a customer to purchases anything from the store, while the price of the product is multiplied by the quantity purchased and the result is added to the product's product_sales column. Running this app will first display all of the items available for sale and it includes ids, names, and prices of the products for sale. It also updates the inventory and display insufficient quantity when store does not have enough products to meet the Customer's need.. below are the screen shots showing the Demo and the app functionality;
+ This app creates an interface for a customer to purchase anything from the store. Running this app will first display all of the items available for sale and it includes ids, names, and prices of the products for sale. It also updates the inventory and display insufficient quantity when store does not have enough products to meet the Customer's need. Below are the screen shots showing the Demo and the app functionality;
 ![bmzc1](Assets/bmzc1.png)
 ![bmzc2](Assets/bmzc2.png)
 ![bmzc3](Assets/bmzc3.png)
@@ -37,7 +37,7 @@ This app is used by Managers to show
   * Also if a manager selects `View Low Inventory`, then it should list all items with an inventory count lower than five.
 ![bmzm2](Assets/bmzm2.png)
 
-  * The same thing applicable if  manager selects `Add to Inventory`, the app will display a prompt that will let the manager "add more" of any item currently in the store.
+  * The same thing applicable, if  manager selects `Add to Inventory`, the app will display a prompt that will let the manager "add more" of any item currently in the store.
   ![bmzm3](Assets/bmzm3.png)
   ![bmzm4](Assets/bmzm4.png)
 
