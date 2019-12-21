@@ -18,4 +18,23 @@ Bamazon is made to function like Amazon Shopping App and  It has 3 distinct cate
 ![bmzc3](Assets/bmzc3.png)
 ![bmzc4](Assets/bmzc4.png)
 
-# BamazonCustomer.js
+# BamazonManager.js
+This app is used by Managers to show
+
+* List a set of menu options:
+
+* View Products for Sale
+    
+ * View Low Inventory
+    
+ * Add to Inventory
+    
+* Add New Product
+
+* It functions in such a way that, If a manager selects `View Products for Sale`, the app will list every available item: the item IDs, names, prices, and quantities.
+
+  * Also if a manager selects `View Low Inventory`, then it should list all items with an inventory count lower than five.
+
+  * The same thing applicable if  manager selects `Add to Inventory`, the app will display a prompt that will let the manager "add more" of any item currently in the store.
+
+  * And Lastly if a Manager selects `Add New Product`, it allows the manager to add a completely new product to the store.
